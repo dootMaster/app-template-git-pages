@@ -5,7 +5,7 @@ ReactDOM.render(<h1>Leslie here. This should help you get started on an app if y
                     The most important thing to notice is that for webpack, what normally is the "dist" folder is now renamed "docs". <br/>
                     git Pages can only host from a folder named "docs" for some reason for now. <br/> Functionally they are equivalent. <br/>
                     Some other things: <br />
-                    ~~~~ You will probably want to delete and add the bundle.js to gitignore until your app is ready to be hosted.
+                    ~~~~ You will probably want to delete and add the bundle.js to gitignore until your app is ready to be hosted. <br />
                     ~~~~  .nojekyll - prevents Pages from applying site themes to your app <br />
                     ~~~~  docs/reset.css - prevents default browser css from messing with your own css. <a href="https://meyerweb.com/eric/tools/css/reset/">Source</a>
                     <br />
