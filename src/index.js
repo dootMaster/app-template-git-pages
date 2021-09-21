@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import App from './App.jsx';
 
 ReactDOM.render(<h1>Leslie here. This should help you get started on an app if you intend to host it on git Pages. <br/>
                     The most important thing to notice is that for webpack, what normally is the "dist" folder is now renamed "docs". <br/>
